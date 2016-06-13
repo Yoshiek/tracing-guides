@@ -1,6 +1,6 @@
 # トレースガイド(松田)
 
-Live at http://yoshiek.github.io/tracing-guides/
+Live at https://github.com/Yoshiek/tracing-guides
 
 This website is a community project to develop tracing guides for remote volunteers to add open geographic data to OpenStreetMap. Guides are an ordered collection of discrete mapping tips. Anyone can contribute!
 
