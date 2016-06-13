@@ -1,4 +1,4 @@
-# トレースガイド(松田)
+# トレースガイド(松田版)
 
 Live at http://yoshiek.github.io/tracing-guides/
 
